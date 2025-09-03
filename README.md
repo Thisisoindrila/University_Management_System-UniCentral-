@@ -44,4 +44,4 @@ The **University Management System** is a comprehensive desktop application desi
 
 This system is an essential tool for modern universities to manage their resources efficiently and provide a seamless experience for students and staff.  
 
-Let me know if you need a detailed breakdown of any specific functionality!
+
